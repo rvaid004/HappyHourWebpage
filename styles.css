@@ -1,0 +1,52 @@
+body {
+    background: #585C5E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+    height: 200px;
+}
+
+.s1 {
+    background-image: url("https://i.imgur.com/oTE1jVd.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.s2 {
+    background-image: url("https://i.imgur.com/kyAHKnV.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.s3 {
+    background-image: url("https://i.imgur.com/oTE1jVd.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.s4 {
+    background-image: url("https://i.imgur.com/82OAyDN.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#coupons {
+    position: absolute !important;
+    margin-left: 50px;
+    top: 400px;
+    width: 610px;
+    left: 0px;
+}
+
+#twit {
+    position: absolute !important;
+    top: 400px;
+    width: 540px;
+    right: 0px;
+    border: 12px #fff solid;
+}
